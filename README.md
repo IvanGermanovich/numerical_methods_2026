@@ -6,10 +6,12 @@
 | Папка | Тема |
 |-------|------|
 | [lab0](lab0/) | Організація робочого середовища та основи роботи з Python і Git |
+| [lab1](lab1/) | Інтерполяція кубічними сплайнами (профіль маршруту Заросляк — Говерла) |
 
 ## Запуск
 
 ```bash
-pip install numpy matplotlib
+pip install numpy matplotlib requests
 python lab0/main.py
+python lab1/main.py
 ```
